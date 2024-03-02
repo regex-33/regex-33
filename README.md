@@ -23,4 +23,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=regex-33&show_icons=true&locale=en&layout=compact"/></p>
 
 
-[![42 stats](https://badge.mediaplus.ma/darkgray/yachtata)](https://github.com/oakoudad/badge42)
+![42 stats](https://badge.mediaplus.ma/darkgray/yachtata)
